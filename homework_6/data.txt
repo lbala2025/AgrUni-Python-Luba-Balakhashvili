@@ -1,0 +1,7 @@
+Nino,Pen,2,3
+Giorgi,Notebook,1,12
+Ana,Pen,5,3
+Nino,Eraser,4,2
+Luka,USB,1,25
+Ana,Notebook,2,12
+

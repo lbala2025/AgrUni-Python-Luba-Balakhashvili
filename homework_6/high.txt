@@ -1,0 +1,3 @@
+Luba, Book, 3, 10
+Giorgi,Notebook,1,12
+Luka,USB,1,25

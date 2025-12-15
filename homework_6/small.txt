@@ -1,0 +1,2 @@
+Nino,Pen,2,3
+Ana,Eraser,3,2
